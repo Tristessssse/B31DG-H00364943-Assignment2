@@ -7,3 +7,7 @@ This assignment is designed to achieve a bare-metal software application on an e
 - A assignment.mp4 in folder video shows the process
 
 - A report in docs folder
+
+### My Github username is Tristessssse
+### The url of my repository is 
+https://github.com/Tristessssse/B31DG-H00364943-Assignment1/invitations
