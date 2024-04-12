@@ -1,13 +1,12 @@
-#### Assignment1 of B31DG
+#### Assignment2 of B31DG
 
-This assignment is designed to achieve a bare-metal software application on an embedded system-on-chip (SoC). I'm required to develop a software application that will generate a pair of periodically repeating digital signals using an Espressif ESP32-based module.
+​	This report aims to provide a detailed description of the design and implementation of an embedded system project based on FreeRTOS. The core objective of the project is to develop a system capable of handling multiple tasks simultaneously, including the generation and measurement of digital signals, sampling of analog inputs, control of LEDs, and simulation of CPU workload.
 
-- Two main code in src
+- A main code in src.
 
-- A assignment.mp4 in folder video shows the process
-
-- A report in docs folder
+- A report and a Standard Declaration of Student Authorship in docs folder.
 
 ### My Github username is Tristessssse
 ### The url of my repository is 
-https://github.com/Tristessssse/B31DG-H00364943-Assignment1/invitations
+https://github.com/Tristessssse/B31DG-H00364943-Assignment2/invitations
+
